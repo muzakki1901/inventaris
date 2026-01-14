@@ -19,7 +19,7 @@
         bg-gradient-to-br from-[#7C00FF]/40 to-[#00FF9C]/40 border-r border-white/20">
 
             <h1 class="text-4xl font-bold tracking-widest text-black">
-                DARE TSAURI
+                Muzakki
             </h1>
 
             <p class="text-black mt-2 tracking-widest">
