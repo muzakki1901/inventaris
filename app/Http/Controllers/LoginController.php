@@ -20,7 +20,11 @@ class LoginController extends Controller
             }
         } else {
             //jika gagal login, kembalikan ke halaman login
+<<<<<<< HEAD
             return redirect('/');
+=======
+            return redirect("/");
+>>>>>>> 668b34001591edffbe788c94551622f19656e975
         }
     }
 }

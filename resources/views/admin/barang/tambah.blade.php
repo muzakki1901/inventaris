@@ -12,11 +12,19 @@
                 <form method="post" action="/admin/barang/simpan">
                     @csrf
                     <div class="form-group">
+<<<<<<< HEAD
                         Kode Barang
                         <input type="text" class="form-control" name="kode" required>
                     </div>
                     <div class="form-group">
                         Nama Barang
+=======
+                        Kode barang
+                        <input type="text" class="form-control" name="kode" required>
+                    </div>
+                    <div class="form-group">
+                        Nama barang
+>>>>>>> 668b34001591edffbe788c94551622f19656e975
                         <input type="text" class="form-control" name="nama" required>
                     </div>
                     <div class="form-group">

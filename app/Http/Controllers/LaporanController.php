@@ -19,4 +19,9 @@ class LaporanController extends Controller
         $pdf = Pdf::loadView('admin.laporan.pdf_barang', compact('data'));
         return $pdf->stream('barang.pdf');
     }
+<<<<<<< HEAD
 }
+=======
+}
+ 
+>>>>>>> 668b34001591edffbe788c94551622f19656e975

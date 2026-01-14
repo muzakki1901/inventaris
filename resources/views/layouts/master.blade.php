@@ -11,7 +11,10 @@
 
     <title>SB Admin 2 - Dashboard</title>
     @notifyCss
+<<<<<<< HEAD
 
+=======
+>>>>>>> 668b34001591edffbe788c94551622f19656e975
     <!-- Custom fonts for this template-->
     <link href="/sbadmin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link
@@ -25,7 +28,10 @@
 
 <body id="page-top">
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 668b34001591edffbe788c94551622f19656e975
     <!-- Page Wrapper -->
     <div id="wrapper">
 
@@ -55,6 +61,7 @@
                     <span>Data Barang</span></a>
             </li>
 
+<<<<<<< HEAD
             <!-- Nav Item - Laporan -->
 <li class="nav-item active">
     <a class="nav-link" href="/admin/laporan">
@@ -62,6 +69,13 @@
         <span>Laporan</span>
     </a>
 </li>
+=======
+            <li class="nav-item active">
+                <a class="nav-link" href="/admin/laporan">
+                    <i class="fas fa-fw fa-list"></i>
+                    <span>laporan</span></a>
+            </li>
+>>>>>>> 668b34001591edffbe788c94551622f19656e975
 
             <!-- Divider -->
             <hr class="sidebar-divider">
@@ -233,7 +247,10 @@
 
     <x-notify::notify />
         @notifyJs
+<<<<<<< HEAD
 
+=======
+>>>>>>> 668b34001591edffbe788c94551622f19656e975
 </body>
 
 </html>
